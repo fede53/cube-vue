@@ -1,0 +1,103 @@
+{
+    "sidebar":
+    {
+        "general": "General",
+        "dashboard": "Dashboard",
+        "settings": "Settings",
+        "user": "User",
+        "language": "Language",
+        "media": "Media",
+        "sidebar": "Sidebar"
+    },
+    "confirmMessage":
+    {
+        "title": "Are you sure?",
+        "text": "You won't be able to revert this!",
+        "yes": "Yes, delete it!",
+        "deleted": "Deleted!",
+        "fileDeleted": "Your file has been deleted."
+    },
+    "general":
+    {
+        "add": "add",
+        "edit": "edit",
+        "save": "Save",
+        "modify": "Modify"
+    },
+    "userModule":
+    {
+        "list": "List users",
+        "add": "Add user",
+        "name": "Name",
+        "role": "Role",
+        "creation_date": "Creation date",
+        "dashboard": "Dashboard",
+        "general": "General",
+        "user": "User",
+        "form":
+        {
+            "form_title": "User details",
+            "name": "First Name",
+            "surname": "Last Name",
+            "role": "Role",
+            "email": "Email",
+            "password": "Password",
+            "confirm_password": "Confirm password"
+        }
+    },
+
+    "sidebarModule":
+    {
+        "subtitle": "Sidebar elements",
+        "form":
+        {
+            "label": "Insert label",
+            "icon": "Insert icon",
+            "link": "Insert link",
+            "role": "Insert role",
+            "parameter": "Insert parameter"
+        }
+    },
+
+    "language":
+    {
+        "list": "List languages",
+        "add": "Add language",
+        "subtitle": "Manage language",
+        "form":
+        {
+            "language": "Language",
+            "alpha3": "Alpha3",
+            "alpha2": "Alpha2",
+            "iso": "Iso"
+        }
+    },
+
+    "toast":
+    {
+        "validate_problem": "Please check field",
+        "success": "Successfully saved",
+        "generic_problem": "Problems with saving",
+        "same_error": "Some error occurred"
+    },
+
+
+    "vue-good-table":
+    {
+        "next": "next",
+        "prev": "prev",
+        "rowPerPage" : "Rows per page",
+        "of" : "of",
+        "page" : "page",
+        "all" : "Al",
+        "noData": "There are no rows",
+        "search" : "Search this table"
+    },
+    "dashboardItems":
+    {
+        "versionOne": "Version One",
+        "versionTwo": "Version Two",
+        "versionThree": "Version Three",
+        "versionFour": "Version Four"
+    }
+}
