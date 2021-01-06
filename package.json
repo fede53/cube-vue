@@ -31,7 +31,7 @@
     "@coreui/icons": "^1.0.1",
     "@coreui/utils": "^1.2.4",
     "@coreui/vue": "^3.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "vue": "~2.6.11",
     "vue-good-table": "^2.19.2",
     "vue-i18n": "^8.17.5",
